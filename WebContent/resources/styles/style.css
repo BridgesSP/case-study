@@ -1,0 +1,215 @@
+.welcome-background-color {
+    background: linear-gradient(to bottom, white 40%, black 40%, chartreuse 200%);
+    background-repeat: no-repeat;
+    height: 820px;
+}
+
+.logozz {
+    margin-top: 20px;
+    margin-left: 500px;
+    margin-bottom: 80px;
+
+}
+ 
+.title1 {
+    margin-left: 42%;
+    font-family: sans-serif;
+    color: chartreuse;
+}
+
+.description1 {
+    margin-left: 25%;
+    font-family: sans-serif;
+    color: chartreuse;
+}
+
+.description2 {
+    margin-left: 14%;
+    font-family: sans-serif;
+    color: chartreuse;
+}
+
+.ToLogin {
+    margin-left: 47%;
+    font-family: sans-serif;
+    color: white;
+    width: 500px;
+}
+
+.login-body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(../img/bg.jpg);
+    background-size: 105%;
+    background-repeat: no-repeat;
+}
+
+.login-here {
+    color: chartreuse;
+    font-size: 5vh;
+}
+
+.login-box {
+    width: 280px;
+    position: absolute;
+    top: 23%;
+    left: 46%;
+}
+
+.navigation {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.nav {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+    color: chartreuse;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.nav > li {
+    display: inline-block;
+    padding: 0 25px 0 25px;
+}
+
+.nav > li > a {
+    text-decoration: none;
+    color: chartreuse;
+}
+
+.nav > li > a:hover {
+    color: aquamarine;
+}
+
+.home-page-background-color {
+    background: linear-gradient(to bottom, black 40%, chartreuse 200%);
+    background-repeat: no-repeat;
+    height: 820px;
+}
+
+.album-one {
+    height: 700px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 75px;
+    margin-bottom: 95px;
+    background: linear-gradient(#1081b4, #ef9a13);
+    color: white;
+    font-family: sans-serif;
+    list-style-type: none;
+    display: inline-block;
+    float: left;
+}
+
+.the-new-abnormal {
+    height: 200px;
+    width: 200px;
+}
+
+.album-two {
+    height: 700px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 75px;
+    margin-bottom: 95px;
+    background: linear-gradient(#1d1d1f, #fb9a8e);
+    color: white;
+    font-family: sans-serif;
+    list-style-type: none;
+    display: inline-block;
+    float: left;
+}
+
+.mordechai {
+    height: 200px;
+    width: 200px;
+}
+
+.album-three {
+    height: 700px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 75px;
+    margin-bottom: 95px;
+    background: linear-gradient(#496490, #de0a2d);
+    color: white;
+    font-family: sans-serif;
+    list-style-type: none;
+    display: inline-block;
+    float: left;
+}
+
+.aladdin-sane {
+    height: 200px;
+    width: 200px;
+}
+
+.album-four {
+    height: 700px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 75px;
+    margin-bottom: 95px;
+    background: linear-gradient(#82828f, #3946b9);
+    color: white;
+    font-family: sans-serif;
+    list-style-type: none;
+    display: inline-block;
+    float: left;
+}
+
+.kid-a {
+    height: 200px;
+    width: 200px;
+}
+
+.album-five {
+    height: 770px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 75px;
+    margin-bottom: 95px;
+    background: linear-gradient(#38411f, #5b000d);
+    color: white;
+    font-family: sans-serif;
+    list-style-type: none;
+    display: inline-block;
+    float: left;
+}
+
+.testing {
+    height: 200px;
+    width: 200px;
+}
+
+.album-six {
+    height: 700px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 75px;
+    margin-bottom: 95px;
+    background: linear-gradient(#38411f, #0000);
+    color: white;
+    font-family: sans-serif;
+    list-style-type: none;
+    display: inline-block;
+    float: left;
+}
+
+.making-a-door-less-open {
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
+
+
+
